@@ -3,7 +3,7 @@
 ¡Hola! Soy **Jorge Alberto Muñoz Eade**, desarrollador enfocado en crear soluciones web modernas y eficientes. Este repositorio contiene el código de mi sitio web personal, donde presento mi trayectoria y proyectos destacados.
 
 ## 🌐 Ver Portfolio en Vivo
-Puedes visitar mi sitio aquí: [🔗 ENLACE_A_TU_PORTFOLIO_AQUÍ]
+Puedes visitar mi sitio aquí: [🔗 https://github.com/donjorjol]
 
 ---
 
@@ -19,13 +19,13 @@ Aplicación integral para la gestión de tareas con persistencia de datos y segu
 Plataforma interactiva para descubrir platos y preparaciones consumiendo una API externa.
 * **Descripción:** Filtra recetas por ingredientes y muestra detalles nutricionales y pasos de preparación.
 * **Tech Stack:** JavaScript ES6, HTML5, CSS3, Fetch API.
-* **Enlaces:** [Ver Demo](LINK_DEMO_RECETAS) | [Ver Código](LINK_REPO_RECETAS)
+* **Enlaces:** [EN CONSTRUCCION | [Ver Código](LINK_REPO_RECETAS)
 
 ### 3. Landing Page de Presentación 👤
 Mi primera incursión en la web, enfocada en diseño limpio y responsive.
 * **Descripción:** Página personal con biografía, habilidades y formulario de contacto.
 * **Tech Stack:** HTML, CSS, Bootstrap.
-* **Enlaces:** [Ver Demo](LINK_DEMO_PORTFOLIO) | [Ver Código](LINK_REPO_PORTFOLIO)
+* **Enlaces:** [EN CONSTRUCCION | [Ver Código](LINK_REPO_PORTFOLIO)
 
 ---
 
