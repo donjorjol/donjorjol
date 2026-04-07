@@ -13,7 +13,7 @@ Puedes visitar mi sitio aquí: [🔗 ENLACE_A_TU_PORTFOLIO_AQUÍ]
 Aplicación integral para la gestión de tareas con persistencia de datos y seguridad.
 * **Descripción:** Permite crear, editar y organizar tareas en un tablero dinámico. Incluye sistema de usuarios y protección de rutas.
 * **Tech Stack:** Node.js, Express, Sequelize, PostgreSQL, React, JWT.
-* **Enlaces:** [Ver Demo](LINK_DEMO_KANBAN) | [Ver Código](https://github.com/donjorjol/EF---M8)
+* **Enlaces:** [Ver Demo](LINK_DEMO_KANBAN) | [Ver Código](https://github.com/donjorjol/EF--M8
 
 ### 2. Buscador de Recetas 🥗
 Plataforma interactiva para descubrir platos y preparaciones consumiendo una API externa.
