@@ -58,5 +58,5 @@ Mi primera incursión en la web, enfocada en diseño limpio y responsive.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📫 Contacto
-* **LinkedIn:** [Tu Perfil de LinkedIn]
-* **Email:** [Tu Correo Electrónico]
+* **LinkedIn:** [https://www.linkedin.com/in/jorge-alberto-mu%C3%B1oz-eade-807216373/]
+* **Email:** [jorge.alberto82@gmail.com]
